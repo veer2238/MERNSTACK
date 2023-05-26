@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MERNSTACK/static/css/main.4b7e0e1d.css",
+    "main.js": "/MERNSTACK/static/js/main.177f909b.js",
+    "static/media/cat-2.jpg": "/MERNSTACK/static/media/cat-2.c783bc351239091a6ba7.jpg",
+    "static/media/cat-3.jpg": "/MERNSTACK/static/media/cat-3.a8441fd9d3326934ed92.jpg",
+    "static/media/cat-1.jpg": "/MERNSTACK/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/cat-4.jpg": "/MERNSTACK/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
+    "static/media/banner-img.png": "/MERNSTACK/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/MERNSTACK/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/earbuds-prod-1.webp": "/MERNSTACK/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "index.html": "/MERNSTACK/index.html",
+    "main.4b7e0e1d.css.map": "/MERNSTACK/static/css/main.4b7e0e1d.css.map",
+    "main.177f909b.js.map": "/MERNSTACK/static/js/main.177f909b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7e0e1d.css",
+    "static/js/main.177f909b.js"
+  ]
+}
