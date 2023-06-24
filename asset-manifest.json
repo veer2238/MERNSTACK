@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.82d533a6.css",
-    "main.js": "/MERNSTACK/static/js/main.99186945.js",
+    "main.css": "/MERNSTACK/static/css/main.9d13c501.css",
+    "main.js": "/MERNSTACK/static/js/main.c966d701.js",
     "static/media/Fullstack.pdf": "/MERNSTACK/static/media/Fullstack.77bf8d3afb7cd1140c60.pdf",
     "static/media/fullstack.png": "/MERNSTACK/static/media/fullstack.7f639706d51e6d91ab02.png",
     "static/media/banner-img.png": "/MERNSTACK/static/media/banner-img.0428789203d337c2e253.png",
     "static/media/ccna.png": "/MERNSTACK/static/media/ccna.453394944be9d2c20430.png",
     "static/media/newsletter-bg.jpeg": "/MERNSTACK/static/media/newsletter-bg.d8775bfc09723c0b76bb.jpeg",
     "static/media/FullStack.png": "/MERNSTACK/static/media/FullStack.3bbe016d3eb6c4d19213.png",
-    "static/media/img1.png": "/MERNSTACK/static/media/img1.8f65f6b38a959d733306.png",
     "static/media/dataAnalysis.png": "/MERNSTACK/static/media/dataAnalysis.47b0d6287adbc83a494c.png",
     "static/media/cyberSecurity.png": "/MERNSTACK/static/media/cyberSecurity.dd21aa49bb813f1a2b48.png",
     "static/media/softwareTesting.png": "/MERNSTACK/static/media/softwareTesting.f6b540d86b3535391433.png",
@@ -19,11 +18,11 @@
     "static/media/revicons.ttf": "/MERNSTACK/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.82d533a6.css.map": "/MERNSTACK/static/css/main.82d533a6.css.map",
-    "main.99186945.js.map": "/MERNSTACK/static/js/main.99186945.js.map"
+    "main.9d13c501.css.map": "/MERNSTACK/static/css/main.9d13c501.css.map",
+    "main.c966d701.js.map": "/MERNSTACK/static/js/main.c966d701.js.map"
   },
   "entrypoints": [
-    "static/css/main.82d533a6.css",
-    "static/js/main.99186945.js"
+    "static/css/main.9d13c501.css",
+    "static/js/main.c966d701.js"
   ]
 }
