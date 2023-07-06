@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.80c99cf3.css",
-    "main.js": "/MERNSTACK/static/js/main.ab1dc91a.js",
+    "main.css": "/MERNSTACK/static/css/main.4f152f81.css",
+    "main.js": "/MERNSTACK/static/js/main.2dd29417.js",
     "static/media/wood.png": "/MERNSTACK/static/media/wood.7ef24ce748cabab31ece.png",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/digital_marketing.png": "/MERNSTACK/static/media/digital_marketing.6812dd97af5f575d712f.png",
+    "static/media/course.jpg": "/MERNSTACK/static/media/course.a44a00c513580dca72c7.jpg",
     "static/media/newsletter-bg.jpeg": "/MERNSTACK/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
     "static/media/woman2.png": "/MERNSTACK/static/media/woman2.48287dc467cf6f21e42f.png",
     "static/media/woman3.png": "/MERNSTACK/static/media/woman3.420b0e1657428e40ff57.png",
+    "static/media/placement.jpg": "/MERNSTACK/static/media/placement.f6e9e6c9b1be3d6ff2f6.jpg",
     "static/media/woman1.png": "/MERNSTACK/static/media/woman1.319d20c18a475d638ec1.png",
     "static/media/certificate.png": "/MERNSTACK/static/media/certificate.986b23663543b2b28b25.png",
     "static/media/jayesh.png": "/MERNSTACK/static/media/jayesh.971be7066044569caa29.png",
@@ -21,9 +23,8 @@
     "static/media/UI&UX_design.jpeg": "/MERNSTACK/static/media/UI&UX_design.142ca2f3855a5e411222.jpeg",
     "static/media/interview.jpg": "/MERNSTACK/static/media/interview.7f521d28a8aba90d46f7.jpg",
     "static/media/trainers.jpg": "/MERNSTACK/static/media/trainers.012ee1f715a77914025e.jpg",
-    "static/media/course.png": "/MERNSTACK/static/media/course.f631e5234d875c638c34.png",
+    "static/media/c++.png": "/MERNSTACK/static/media/c++.2e49125db9535fd3acde.png",
     "static/media/MERN.jpeg": "/MERNSTACK/static/media/MERN.8d9b948adcc3ab56e339.jpeg",
-    "static/media/placement.jpg": "/MERNSTACK/static/media/placement.4ce8a1c88eeb447c5d60.jpg",
     "static/media/pencil.png": "/MERNSTACK/static/media/pencil.8a40206a4477cfd6e47e.png",
     "static/media/earbuds-prod-1.webp": "/MERNSTACK/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
     "static/media/practical.jpg": "/MERNSTACK/static/media/practical.1862c9d0a105f9d039db.jpg",
@@ -32,11 +33,11 @@
     "static/media/revicons.ttf": "/MERNSTACK/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.80c99cf3.css.map": "/MERNSTACK/static/css/main.80c99cf3.css.map",
-    "main.ab1dc91a.js.map": "/MERNSTACK/static/js/main.ab1dc91a.js.map"
+    "main.4f152f81.css.map": "/MERNSTACK/static/css/main.4f152f81.css.map",
+    "main.2dd29417.js.map": "/MERNSTACK/static/js/main.2dd29417.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c99cf3.css",
-    "static/js/main.ab1dc91a.js"
+    "static/css/main.4f152f81.css",
+    "static/js/main.2dd29417.js"
   ]
 }
