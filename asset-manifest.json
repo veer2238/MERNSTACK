@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MERNSTACK/static/css/main.3508e40e.css",
-    "main.js": "/MERNSTACK/static/js/main.84ecf66f.js",
+    "main.js": "/MERNSTACK/static/js/main.2b5ce6cb.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/REACT.pdf": "/MERNSTACK/static/media/REACT.aca6177509d8133d63f2.pdf",
@@ -133,6 +133,7 @@
     "static/media/laravel.png": "/MERNSTACK/static/media/laravel.938849f498818d52ea2f.png",
     "static/media/uiux.jpg": "/MERNSTACK/static/media/uiux.818d18d5e00beb3231ef.jpg",
     "static/media/project.png": "/MERNSTACK/static/media/project.a698619b8b3d177c93a2.png",
+    "static/media/rms polytechnic.png": "/MERNSTACK/static/media/rms polytechnic.860e1d5d2eea9a84e015.png",
     "static/media/para1.jpg": "/MERNSTACK/static/media/para1.0ea10e63f0ff2b0bf3b2.jpg",
     "static/media/Rocket.gif": "/MERNSTACK/static/media/Rocket.1d6effd5f2db024b28ac.gif",
     "static/media/fullstack.png": "/MERNSTACK/static/media/fullstack.85f57a5eaccaff6f5d30.png",
@@ -202,10 +203,10 @@
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
     "main.3508e40e.css.map": "/MERNSTACK/static/css/main.3508e40e.css.map",
-    "main.84ecf66f.js.map": "/MERNSTACK/static/js/main.84ecf66f.js.map"
+    "main.2b5ce6cb.js.map": "/MERNSTACK/static/js/main.2b5ce6cb.js.map"
   },
   "entrypoints": [
     "static/css/main.3508e40e.css",
-    "static/js/main.84ecf66f.js"
+    "static/js/main.2b5ce6cb.js"
   ]
 }
