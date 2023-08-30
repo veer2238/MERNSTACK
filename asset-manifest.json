@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.d4b02f99.css",
-    "main.js": "/MERNSTACK/static/js/main.147ba2cd.js",
+    "main.css": "/MERNSTACK/static/css/main.7ef9de2c.css",
+    "main.js": "/MERNSTACK/static/js/main.b284f0b6.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/REACT.pdf": "/MERNSTACK/static/media/REACT.aca6177509d8133d63f2.pdf",
@@ -116,9 +116,11 @@
     "static/media/kunalbhadane.png": "/MERNSTACK/static/media/kunalbhadane.58d4ed833b602c8e6b5b.png",
     "static/media/selenium.png": "/MERNSTACK/static/media/selenium.3edabfc22448eb71737d.png",
     "static/media/c-sharp.png": "/MERNSTACK/static/media/c-sharp.5e17112f49b39a1ef19c.png",
+    "static/media/alert.jpg": "/MERNSTACK/static/media/alert.3cd3466eae2a0548ac42.jpg",
     "static/media/mongodb.jpg": "/MERNSTACK/static/media/mongodb.2f2043362683cf2427d5.jpg",
     "static/media/emi.png": "/MERNSTACK/static/media/emi.79f47ef94713f9735547.png",
     "static/media/Flutter.png": "/MERNSTACK/static/media/Flutter.3b918d0d0ce08ed8d38b.png",
+    "static/media/accordian.png": "/MERNSTACK/static/media/accordian.bda28ab199b1bf35d875.png",
     "static/media/sandhya.png": "/MERNSTACK/static/media/sandhya.92f35f8c10dda243a9fd.png",
     "static/media/seo.png": "/MERNSTACK/static/media/seo.c2a725442df4ea156532.png",
     "static/media/sigma.png": "/MERNSTACK/static/media/sigma.f22f04902082da1f127e.png",
@@ -203,11 +205,11 @@
     "static/media/AI.avif": "/MERNSTACK/static/media/AI.cfda703ac31d0555eaa3.avif",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.d4b02f99.css.map": "/MERNSTACK/static/css/main.d4b02f99.css.map",
-    "main.147ba2cd.js.map": "/MERNSTACK/static/js/main.147ba2cd.js.map"
+    "main.7ef9de2c.css.map": "/MERNSTACK/static/css/main.7ef9de2c.css.map",
+    "main.b284f0b6.js.map": "/MERNSTACK/static/js/main.b284f0b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b02f99.css",
-    "static/js/main.147ba2cd.js"
+    "static/css/main.7ef9de2c.css",
+    "static/js/main.b284f0b6.js"
   ]
 }
