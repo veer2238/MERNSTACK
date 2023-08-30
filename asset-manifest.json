@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.82594568.css",
-    "main.js": "/MERNSTACK/static/js/main.1c7f734f.js",
+    "main.css": "/MERNSTACK/static/css/main.d4b02f99.css",
+    "main.js": "/MERNSTACK/static/js/main.147ba2cd.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/REACT.pdf": "/MERNSTACK/static/media/REACT.aca6177509d8133d63f2.pdf",
@@ -198,15 +198,16 @@
     "static/media/wordpress.png": "/MERNSTACK/static/media/wordpress.ef80ae296c2da5c01931.png",
     "static/media/revicons.eot": "/MERNSTACK/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/MERNSTACK/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/react-start.png": "/MERNSTACK/static/media/react-start.d31388e5d495658e8460.png",
     "static/media/direction.png": "/MERNSTACK/static/media/direction.2204618aa34bc8fb7374.png",
     "static/media/AI.avif": "/MERNSTACK/static/media/AI.cfda703ac31d0555eaa3.avif",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.82594568.css.map": "/MERNSTACK/static/css/main.82594568.css.map",
-    "main.1c7f734f.js.map": "/MERNSTACK/static/js/main.1c7f734f.js.map"
+    "main.d4b02f99.css.map": "/MERNSTACK/static/css/main.d4b02f99.css.map",
+    "main.147ba2cd.js.map": "/MERNSTACK/static/js/main.147ba2cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.82594568.css",
-    "static/js/main.1c7f734f.js"
+    "static/css/main.d4b02f99.css",
+    "static/js/main.147ba2cd.js"
   ]
 }
