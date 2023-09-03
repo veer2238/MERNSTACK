@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.5c19607f.css",
-    "main.js": "/MERNSTACK/static/js/main.b4dfaad6.js",
+    "main.css": "/MERNSTACK/static/css/main.6f36ed6d.css",
+    "main.js": "/MERNSTACK/static/js/main.61b49a9b.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/javascript.pdf": "/MERNSTACK/static/media/javascript.6f713997d3852b46cc78.pdf",
@@ -148,12 +148,14 @@
     "static/media/para1.jpg": "/MERNSTACK/static/media/para1.0ea10e63f0ff2b0bf3b2.jpg",
     "static/media/Rocket.gif": "/MERNSTACK/static/media/Rocket.1d6effd5f2db024b28ac.gif",
     "static/media/fullstack.png": "/MERNSTACK/static/media/fullstack.85f57a5eaccaff6f5d30.png",
+    "static/media/test1.jpeg": "/MERNSTACK/static/media/test1.d51d05046bdbc75b831e.jpeg",
     "static/media/webD.jpg": "/MERNSTACK/static/media/webD.5d1b0ea9f9d2a34e1b01.jpg",
     "static/media/mernstack.png": "/MERNSTACK/static/media/mernstack.4dbdeac75cac2cc20b7d.png",
     "static/media/msu.png": "/MERNSTACK/static/media/msu.7527161234ca2924dd34.png",
     "static/media/reactjs.png": "/MERNSTACK/static/media/reactjs.f5a9a5765f412a65274d.png",
     "static/media/kjit.png": "/MERNSTACK/static/media/kjit.4042895bfba730725497.png",
     "static/media/para2.jpg": "/MERNSTACK/static/media/para2.2e57d0218b6def790c9c.jpg",
+    "static/media/javascript.jpeg": "/MERNSTACK/static/media/javascript.be7a340af98cada7bc25.jpeg",
     "static/media/machine-learning.png": "/MERNSTACK/static/media/machine-learning.0c31e17abc105af1a046.png",
     "static/media/mongodb.png": "/MERNSTACK/static/media/mongodb.bfd73249a76369b058f9.png",
     "static/media/flexibletiming.png": "/MERNSTACK/static/media/flexibletiming.f9e64b1a9fc2af0fd138.png",
@@ -168,10 +170,12 @@
     "static/media/svit.png": "/MERNSTACK/static/media/svit.008545cb865b3b138d89.png",
     "static/media/internal.png": "/MERNSTACK/static/media/internal.c52c4bbd8d50b0d2a7f5.png",
     "static/media/padding.png": "/MERNSTACK/static/media/padding.9da1146313165987d12e.png",
+    "static/media/paragraph.jpeg": "/MERNSTACK/static/media/paragraph.9c5bddf1e546ce4350d3.jpeg",
     "static/media/ASP-net.png": "/MERNSTACK/static/media/ASP-net.9a6f4a9827f55b3fcef6.png",
     "static/media/django.jpg": "/MERNSTACK/static/media/django.5487d4fbed5044c02f49.jpg",
     "static/media/djmit.png": "/MERNSTACK/static/media/djmit.05f48f55e7c40fb08853.png",
     "static/media/interview.jpg": "/MERNSTACK/static/media/interview.7f521d28a8aba90d46f7.jpg",
+    "static/media/css.jpeg": "/MERNSTACK/static/media/css.2c39543b5be05b7633ad.jpeg",
     "static/media/card.jpeg": "/MERNSTACK/static/media/card.3202ff91f486fb688c4d.jpeg",
     "static/media/gsfc.png": "/MERNSTACK/static/media/gsfc.fc24c26aede1662e043d.png",
     "static/media/Facebook-Marketing.webp": "/MERNSTACK/static/media/Facebook-Marketing.002dc29320087fb893ee.webp",
@@ -185,12 +189,13 @@
     "static/media/external.png": "/MERNSTACK/static/media/external.550c464b01c0f26d412c.png",
     "static/media/static.png": "/MERNSTACK/static/media/static.839293dfdf2c98c9b86f.png",
     "static/media/c++.png": "/MERNSTACK/static/media/c++.2e49125db9535fd3acde.png",
+    "static/media/heading.jpeg": "/MERNSTACK/static/media/heading.a8de63477828441b5927.jpeg",
     "static/media/margin.png": "/MERNSTACK/static/media/margin.25c659f10886f19d9f2c.png",
     "static/media/testing.png": "/MERNSTACK/static/media/testing.3a9fb1d1093c71ffbbdd.png",
-    "static/media/intro.png": "/MERNSTACK/static/media/intro.1a9e98df672f81ef454c.png",
     "static/media/nirmal.jpg": "/MERNSTACK/static/media/nirmal.a8a9b3584e976eac7329.jpg",
     "static/media/MERN.jpeg": "/MERNSTACK/static/media/MERN.8d9b948adcc3ab56e339.jpeg",
     "static/media/kotlin.png": "/MERNSTACK/static/media/kotlin.b8addef181c4cf5d8a18.png",
+    "static/media/htmlc.jpeg": "/MERNSTACK/static/media/htmlc.5a322c407e3e9cb414ba.jpeg",
     "static/media/relative.png": "/MERNSTACK/static/media/relative.80b42a87632e44a5fd31.png",
     "static/media/bg.png": "/MERNSTACK/static/media/bg.d9e27d24cb5fa53dfc67.png",
     "static/media/pencil.png": "/MERNSTACK/static/media/pencil.8a40206a4477cfd6e47e.png",
@@ -218,11 +223,11 @@
     "static/media/AI.avif": "/MERNSTACK/static/media/AI.cfda703ac31d0555eaa3.avif",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.5c19607f.css.map": "/MERNSTACK/static/css/main.5c19607f.css.map",
-    "main.b4dfaad6.js.map": "/MERNSTACK/static/js/main.b4dfaad6.js.map"
+    "main.6f36ed6d.css.map": "/MERNSTACK/static/css/main.6f36ed6d.css.map",
+    "main.61b49a9b.js.map": "/MERNSTACK/static/js/main.61b49a9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c19607f.css",
-    "static/js/main.b4dfaad6.js"
+    "static/css/main.6f36ed6d.css",
+    "static/js/main.61b49a9b.js"
   ]
 }
