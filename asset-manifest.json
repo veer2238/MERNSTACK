@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MERNSTACK/static/css/main.6f36ed6d.css",
-    "main.js": "/MERNSTACK/static/js/main.61b49a9b.js",
+    "main.js": "/MERNSTACK/static/js/main.9d8e4c37.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/javascript.pdf": "/MERNSTACK/static/media/javascript.6f713997d3852b46cc78.pdf",
@@ -134,6 +134,7 @@
     "static/media/seo.png": "/MERNSTACK/static/media/seo.c2a725442df4ea156532.png",
     "static/media/sigma.png": "/MERNSTACK/static/media/sigma.f22f04902082da1f127e.png",
     "static/media/sumit.png": "/MERNSTACK/static/media/sumit.cd9184a3d7feb1442079.png",
+    "static/media/image.jpeg": "/MERNSTACK/static/media/image.ac785668ffcac2cd36a7.jpeg",
     "static/media/manual.png": "/MERNSTACK/static/media/manual.6cff7eca7e89ad689ca6.png",
     "static/media/fullstack-development.png": "/MERNSTACK/static/media/fullstack-development.dd115287f2981ce54bd2.png",
     "static/media/selector.png": "/MERNSTACK/static/media/selector.4b246936eb0d515002a3.png",
@@ -147,6 +148,7 @@
     "static/media/rms polytechnic.png": "/MERNSTACK/static/media/rms polytechnic.860e1d5d2eea9a84e015.png",
     "static/media/para1.jpg": "/MERNSTACK/static/media/para1.0ea10e63f0ff2b0bf3b2.jpg",
     "static/media/Rocket.gif": "/MERNSTACK/static/media/Rocket.1d6effd5f2db024b28ac.gif",
+    "static/media/task-2.jpeg": "/MERNSTACK/static/media/task-2.f78b1c97053c01b7f7a2.jpeg",
     "static/media/fullstack.png": "/MERNSTACK/static/media/fullstack.85f57a5eaccaff6f5d30.png",
     "static/media/test1.jpeg": "/MERNSTACK/static/media/test1.d51d05046bdbc75b831e.jpeg",
     "static/media/webD.jpg": "/MERNSTACK/static/media/webD.5d1b0ea9f9d2a34e1b01.jpg",
@@ -192,6 +194,7 @@
     "static/media/heading.jpeg": "/MERNSTACK/static/media/heading.a8de63477828441b5927.jpeg",
     "static/media/margin.png": "/MERNSTACK/static/media/margin.25c659f10886f19d9f2c.png",
     "static/media/testing.png": "/MERNSTACK/static/media/testing.3a9fb1d1093c71ffbbdd.png",
+    "static/media/link.jpeg": "/MERNSTACK/static/media/link.c3ae2f2ebddd6538dcdc.jpeg",
     "static/media/nirmal.jpg": "/MERNSTACK/static/media/nirmal.a8a9b3584e976eac7329.jpg",
     "static/media/MERN.jpeg": "/MERNSTACK/static/media/MERN.8d9b948adcc3ab56e339.jpeg",
     "static/media/kotlin.png": "/MERNSTACK/static/media/kotlin.b8addef181c4cf5d8a18.png",
@@ -205,6 +208,7 @@
     "static/media/button.jpeg": "/MERNSTACK/static/media/button.7bcb8169bbab2cae656c.jpeg",
     "static/media/practical.jpg": "/MERNSTACK/static/media/practical.1862c9d0a105f9d039db.jpg",
     "static/media/PHP.png": "/MERNSTACK/static/media/PHP.4ef3e932e7c3f9853359.png",
+    "static/media/title.jpeg": "/MERNSTACK/static/media/title.6a0edf1c22ac87f8c8ad.jpeg",
     "static/media/django.png": "/MERNSTACK/static/media/django.7dedd29d7ae310a588cf.png",
     "static/media/design.jpg": "/MERNSTACK/static/media/design.aeac94b615ae5920b97b.jpg",
     "static/media/carousel.jpeg": "/MERNSTACK/static/media/carousel.37e32efe71a25b7531ce.jpeg",
@@ -220,14 +224,15 @@
     "static/media/react-start.png": "/MERNSTACK/static/media/react-start.d31388e5d495658e8460.png",
     "static/media/dropdown.jpeg": "/MERNSTACK/static/media/dropdown.d91ccfbb6911f757c1d7.jpeg",
     "static/media/direction.png": "/MERNSTACK/static/media/direction.2204618aa34bc8fb7374.png",
+    "static/media/style.jpeg": "/MERNSTACK/static/media/style.b7412a76cccc03e04f93.jpeg",
     "static/media/AI.avif": "/MERNSTACK/static/media/AI.cfda703ac31d0555eaa3.avif",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
     "main.6f36ed6d.css.map": "/MERNSTACK/static/css/main.6f36ed6d.css.map",
-    "main.61b49a9b.js.map": "/MERNSTACK/static/js/main.61b49a9b.js.map"
+    "main.9d8e4c37.js.map": "/MERNSTACK/static/js/main.9d8e4c37.js.map"
   },
   "entrypoints": [
     "static/css/main.6f36ed6d.css",
-    "static/js/main.61b49a9b.js"
+    "static/js/main.9d8e4c37.js"
   ]
 }
