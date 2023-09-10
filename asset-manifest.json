@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MERNSTACK/static/css/main.6f36ed6d.css",
-    "main.js": "/MERNSTACK/static/js/main.3b6432be.js",
+    "main.js": "/MERNSTACK/static/js/main.88c49e33.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/javascript.pdf": "/MERNSTACK/static/media/javascript.6f713997d3852b46cc78.pdf",
@@ -229,12 +229,14 @@
     "static/media/height.png": "/MERNSTACK/static/media/height.3a996580b3f5f0abb520.png",
     "static/media/text=aling.png": "/MERNSTACK/static/media/text=aling.0b39b272e98ae10c3b5d.png",
     "static/media/asp.net.png": "/MERNSTACK/static/media/asp.net.302f39f8ff7baa01705e.png",
+    "static/media/object2.jpeg": "/MERNSTACK/static/media/object2.19da9d61af56f02389a5.jpeg",
     "static/media/border-radius.png": "/MERNSTACK/static/media/border-radius.608dfa36520e3b0ad4d5.png",
     "static/media/absolute.png": "/MERNSTACK/static/media/absolute.292c41763b5dae22c328.png",
     "static/media/wordpress.png": "/MERNSTACK/static/media/wordpress.ef80ae296c2da5c01931.png",
     "static/media/revicons.eot": "/MERNSTACK/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/MERNSTACK/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/react-start.png": "/MERNSTACK/static/media/react-start.d31388e5d495658e8460.png",
+    "static/media/object1.jpeg": "/MERNSTACK/static/media/object1.5d367ea3a862ccd5ee2a.jpeg",
     "static/media/dropdown.jpeg": "/MERNSTACK/static/media/dropdown.d91ccfbb6911f757c1d7.jpeg",
     "static/media/direction.png": "/MERNSTACK/static/media/direction.2204618aa34bc8fb7374.png",
     "static/media/style.jpeg": "/MERNSTACK/static/media/style.b7412a76cccc03e04f93.jpeg",
@@ -242,10 +244,10 @@
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
     "main.6f36ed6d.css.map": "/MERNSTACK/static/css/main.6f36ed6d.css.map",
-    "main.3b6432be.js.map": "/MERNSTACK/static/js/main.3b6432be.js.map"
+    "main.88c49e33.js.map": "/MERNSTACK/static/js/main.88c49e33.js.map"
   },
   "entrypoints": [
     "static/css/main.6f36ed6d.css",
-    "static/js/main.3b6432be.js"
+    "static/js/main.88c49e33.js"
   ]
 }
