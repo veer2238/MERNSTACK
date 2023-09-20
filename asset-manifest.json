@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MERNSTACK/static/css/main.50dc5b92.css",
-    "main.js": "/MERNSTACK/static/js/main.131bcfa4.js",
+    "main.js": "/MERNSTACK/static/js/main.8a1bf280.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/python.pdf": "/MERNSTACK/static/media/python.436c32383f8be9317faa.pdf",
@@ -49,11 +49,15 @@
     "static/media/devansh.png": "/MERNSTACK/static/media/devansh.491cec7c782fe8b986d2.png",
     "static/media/data-analytics.png": "/MERNSTACK/static/media/data-analytics.266f4a46a2ae78a3bf44.png",
     "static/media/R-Programming.png": "/MERNSTACK/static/media/R-Programming.ef063ab753e50fbbee4d.png",
+    "static/media/icon.jpeg": "/MERNSTACK/static/media/icon.6cefdf2147051698f9b8.jpeg",
     "static/media/digital_marketing.png": "/MERNSTACK/static/media/digital_marketing.6812dd97af5f575d712f.png",
     "static/media/rutika.png": "/MERNSTACK/static/media/rutika.85948023ff3e83184bdf.png",
     "static/media/Advance-Excel.png": "/MERNSTACK/static/media/Advance-Excel.e68ed883c5a9249eb098.png",
     "static/media/devendra.png": "/MERNSTACK/static/media/devendra.159deb1436ea9ccd6ab6.png",
     "static/media/html.png": "/MERNSTACK/static/media/html.466e9485caf36b4e5c57.png",
+    "static/media/ceil.jpeg": "/MERNSTACK/static/media/ceil.9f7daa66f81174b4c291.jpeg",
+    "static/media/add.jpeg": "/MERNSTACK/static/media/add.e34526fc0ea134c28c0f.jpeg",
+    "static/media/word.jpeg": "/MERNSTACK/static/media/word.6fc1c6a91055cdf4f4dc.jpeg",
     "static/media/rahul.png": "/MERNSTACK/static/media/rahul.25e1dc76c469eb08b884.png",
     "static/media/navbar.jpeg": "/MERNSTACK/static/media/navbar.3ced27eca8eb7a324d0e.jpeg",
     "static/media/web-design.png": "/MERNSTACK/static/media/web-design.853953248b74bd568f50.png",
@@ -78,6 +82,8 @@
     "static/media/jayshree1.png": "/MERNSTACK/static/media/jayshree1.e470505fed296e6d9a02.png",
     "static/media/het.png": "/MERNSTACK/static/media/het.3bc87db0692e7c4bb281.png",
     "static/media/bg3.png": "/MERNSTACK/static/media/bg3.85b5333c49541227b9bb.png",
+    "static/media/column.jpeg": "/MERNSTACK/static/media/column.49c3842d651821d81831.jpeg",
+    "static/media/screen.jpeg": "/MERNSTACK/static/media/screen.2632089c8933ac105956.jpeg",
     "static/media/ppc.png": "/MERNSTACK/static/media/ppc.5794919a1055596896b6.png",
     "static/media/app.png": "/MERNSTACK/static/media/app.78974d3d60d5df8c1d96.png",
     "static/media/JAY-HUDLANI.jpg": "/MERNSTACK/static/media/JAY-HUDLANI.b205719464197ca7cf04.jpg",
@@ -126,6 +132,7 @@
     "static/media/INSTERGRAM.png": "/MERNSTACK/static/media/INSTERGRAM.793b0d0c2b8c9534f028.png",
     "static/media/KOTLIN.png": "/MERNSTACK/static/media/KOTLIN.06cf441bea6f46ebaa17.png",
     "static/media/chintan-p.png": "/MERNSTACK/static/media/chintan-p.7cda4524ec8e5a2ab133.png",
+    "static/media/multiple.jpeg": "/MERNSTACK/static/media/multiple.e8fc800669d3d36e19ca.jpeg",
     "static/media/kunalbhadane.png": "/MERNSTACK/static/media/kunalbhadane.58d4ed833b602c8e6b5b.png",
     "static/media/border.jpeg": "/MERNSTACK/static/media/border.49893162014bdba0c823.jpeg",
     "static/media/console.jpeg": "/MERNSTACK/static/media/console.ac6125ba504917098079.jpeg",
@@ -156,6 +163,7 @@
     "static/media/uiux.jpg": "/MERNSTACK/static/media/uiux.818d18d5e00beb3231ef.jpg",
     "static/media/project.png": "/MERNSTACK/static/media/project.a698619b8b3d177c93a2.png",
     "static/media/rms polytechnic.png": "/MERNSTACK/static/media/rms polytechnic.860e1d5d2eea9a84e015.png",
+    "static/media/sum.jpeg": "/MERNSTACK/static/media/sum.c8b2de02740ebd0b9dad.jpeg",
     "static/media/para1.jpg": "/MERNSTACK/static/media/para1.0ea10e63f0ff2b0bf3b2.jpg",
     "static/media/Rocket.gif": "/MERNSTACK/static/media/Rocket.1d6effd5f2db024b28ac.gif",
     "static/media/task-2.jpeg": "/MERNSTACK/static/media/task-2.f78b1c97053c01b7f7a2.jpeg",
@@ -173,6 +181,7 @@
     "static/media/background.jpeg": "/MERNSTACK/static/media/background.b8c3f0c44103a7c3171f.jpeg",
     "static/media/flexibletiming.png": "/MERNSTACK/static/media/flexibletiming.f9e64b1a9fc2af0fd138.png",
     "static/media/data-analysis.png": "/MERNSTACK/static/media/data-analysis.f2dafe947f59f87d7d41.png",
+    "static/media/plus.jpeg": "/MERNSTACK/static/media/plus.6fbbd3686ce87e512782.jpeg",
     "static/media/Angular.png": "/MERNSTACK/static/media/Angular.38037fc3f3f3906a4ee0.png",
     "static/media/transformation.png": "/MERNSTACK/static/media/transformation.48c377ce4c419c050122.png",
     "static/media/UI&UX_design.jpeg": "/MERNSTACK/static/media/UI&UX_design.142ca2f3855a5e411222.jpeg",
@@ -272,10 +281,10 @@
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
     "main.50dc5b92.css.map": "/MERNSTACK/static/css/main.50dc5b92.css.map",
-    "main.131bcfa4.js.map": "/MERNSTACK/static/js/main.131bcfa4.js.map"
+    "main.8a1bf280.js.map": "/MERNSTACK/static/js/main.8a1bf280.js.map"
   },
   "entrypoints": [
     "static/css/main.50dc5b92.css",
-    "static/js/main.131bcfa4.js"
+    "static/js/main.8a1bf280.js"
   ]
 }
