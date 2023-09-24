@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.af8c404b.css",
-    "main.js": "/MERNSTACK/static/js/main.e3926896.js",
+    "main.css": "/MERNSTACK/static/css/main.02c7dc60.css",
+    "main.js": "/MERNSTACK/static/js/main.e680b5ac.js",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/MERNSTACK/static/media/cprog.deca18a18473ee428ebd.pdf",
     "static/media/python.pdf": "/MERNSTACK/static/media/python.436c32383f8be9317faa.pdf",
@@ -44,10 +44,12 @@
     "static/media/Advance-Excel.png": "/MERNSTACK/static/media/Advance-Excel.e68ed883c5a9249eb098.png",
     "static/media/devendra.png": "/MERNSTACK/static/media/devendra.159deb1436ea9ccd6ab6.png",
     "static/media/html.png": "/MERNSTACK/static/media/html.466e9485caf36b4e5c57.png",
+    "static/media/icon-set.jpeg": "/MERNSTACK/static/media/icon-set.124077530f80ac7e1dbf.jpeg",
     "static/media/ceil.jpeg": "/MERNSTACK/static/media/ceil.9f7daa66f81174b4c291.jpeg",
     "static/media/add.jpeg": "/MERNSTACK/static/media/add.e34526fc0ea134c28c0f.jpeg",
     "static/media/word.jpeg": "/MERNSTACK/static/media/word.6fc1c6a91055cdf4f4dc.jpeg",
     "static/media/rahul.png": "/MERNSTACK/static/media/rahul.25e1dc76c469eb08b884.png",
+    "static/media/bars.jpeg": "/MERNSTACK/static/media/bars.edc45c36a00376833453.jpeg",
     "static/media/navbar.jpeg": "/MERNSTACK/static/media/navbar.3ced27eca8eb7a324d0e.jpeg",
     "static/media/web-design.png": "/MERNSTACK/static/media/web-design.853953248b74bd568f50.png",
     "static/media/artificial-intellidence.png": "/MERNSTACK/static/media/artificial-intellidence.440e81f0e603b6a2818c.png",
@@ -61,10 +63,13 @@
     "static/media/zhainil.png": "/MERNSTACK/static/media/zhainil.be238ec3303693fd9d25.png",
     "static/media/course.jpg": "/MERNSTACK/static/media/course.a44a00c513580dca72c7.jpg",
     "static/media/newsletter-bg.jpeg": "/MERNSTACK/static/media/newsletter-bg.d8775bfc09723c0b76bb.jpeg",
+    "static/media/color set.jpeg": "/MERNSTACK/static/media/color set.0dee557480a544c8f809.jpeg",
     "static/media/salman.png": "/MERNSTACK/static/media/salman.ba1c57e14f123580a13d.png",
     "static/media/krupa.png": "/MERNSTACK/static/media/krupa.b7cc3206ed4903f026d4.png",
     "static/media/spiners.jpeg": "/MERNSTACK/static/media/spiners.2dd292e3cac257fa6dec.jpeg",
     "static/media/slider5.png": "/MERNSTACK/static/media/slider5.d60f61867bf2648983db.png",
+    "static/media/chart-2.jpeg": "/MERNSTACK/static/media/chart-2.870a02262b7a3ca8420d.jpeg",
+    "static/media/rule.jpeg": "/MERNSTACK/static/media/rule.dd25f0b93a7ca887a27c.jpeg",
     "static/media/kirtan.png": "/MERNSTACK/static/media/kirtan.a3b261de8f00acabe6c2.png",
     "static/media/dhruv.png": "/MERNSTACK/static/media/dhruv.5585be8b5477edbadbd1.png",
     "static/media/api.png": "/MERNSTACK/static/media/api.138e36d9dc09467d50b5.png",
@@ -76,6 +81,7 @@
     "static/media/ppc.png": "/MERNSTACK/static/media/ppc.5794919a1055596896b6.png",
     "static/media/app.png": "/MERNSTACK/static/media/app.78974d3d60d5df8c1d96.png",
     "static/media/JAY-HUDLANI.jpg": "/MERNSTACK/static/media/JAY-HUDLANI.b205719464197ca7cf04.jpg",
+    "static/media/chart.jpeg": "/MERNSTACK/static/media/chart.905fb58dc7939275c569.jpeg",
     "static/media/comp.png": "/MERNSTACK/static/media/comp.8e55f0d0526d59a9f828.png",
     "static/media/bhavya.png": "/MERNSTACK/static/media/bhavya.e0954ef3b37b6aa04431.png",
     "static/media/chintan.png": "/MERNSTACK/static/media/chintan.924d880431d33566193b.png",
@@ -217,6 +223,7 @@
     "static/media/function1.jpeg": "/MERNSTACK/static/media/function1.0a3077d4de6c4be9bb8d.jpeg",
     "static/media/testing.png": "/MERNSTACK/static/media/testing.3a9fb1d1093c71ffbbdd.png",
     "static/media/division.jpeg": "/MERNSTACK/static/media/division.ceb07ba215e53c2fe401.jpeg",
+    "static/media/continue.jpeg": "/MERNSTACK/static/media/continue.1c69e83a123568ad7e5a.jpeg",
     "static/media/link.jpeg": "/MERNSTACK/static/media/link.c3ae2f2ebddd6538dcdc.jpeg",
     "static/media/nirmal.jpg": "/MERNSTACK/static/media/nirmal.a8a9b3584e976eac7329.jpg",
     "static/media/MERN.jpeg": "/MERNSTACK/static/media/MERN.8d9b948adcc3ab56e339.jpeg",
@@ -255,6 +262,7 @@
     "static/media/internal.jpeg": "/MERNSTACK/static/media/internal.59c3bb9193e5cee5ea4e.jpeg",
     "static/media/object2.jpeg": "/MERNSTACK/static/media/object2.19da9d61af56f02389a5.jpeg",
     "static/media/border-radius.png": "/MERNSTACK/static/media/border-radius.608dfa36520e3b0ad4d5.png",
+    "static/media/table-border.jpeg": "/MERNSTACK/static/media/table-border.6f981fbe1b354bfc7e21.jpeg",
     "static/media/absolute.png": "/MERNSTACK/static/media/absolute.292c41763b5dae22c328.png",
     "static/media/wordpress.png": "/MERNSTACK/static/media/wordpress.ef80ae296c2da5c01931.png",
     "static/media/max.jpeg": "/MERNSTACK/static/media/max.bb6a3bca7dad8310e0a7.jpeg",
@@ -268,14 +276,16 @@
     "static/media/object1.jpeg": "/MERNSTACK/static/media/object1.5d367ea3a862ccd5ee2a.jpeg",
     "static/media/dropdown.jpeg": "/MERNSTACK/static/media/dropdown.d91ccfbb6911f757c1d7.jpeg",
     "static/media/direction.png": "/MERNSTACK/static/media/direction.2204618aa34bc8fb7374.png",
+    "static/media/break.jpeg": "/MERNSTACK/static/media/break.615db2d4043577b5b465.jpeg",
+    "static/media/loop.jpeg": "/MERNSTACK/static/media/loop.265f8cfe4d936b6e96a3.jpeg",
     "static/media/AI.avif": "/MERNSTACK/static/media/AI.cfda703ac31d0555eaa3.avif",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.af8c404b.css.map": "/MERNSTACK/static/css/main.af8c404b.css.map",
-    "main.e3926896.js.map": "/MERNSTACK/static/js/main.e3926896.js.map"
+    "main.02c7dc60.css.map": "/MERNSTACK/static/css/main.02c7dc60.css.map",
+    "main.e680b5ac.js.map": "/MERNSTACK/static/js/main.e680b5ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.af8c404b.css",
-    "static/js/main.e3926896.js"
+    "static/css/main.02c7dc60.css",
+    "static/js/main.e680b5ac.js"
   ]
 }
