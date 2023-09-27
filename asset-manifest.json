@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MERNSTACK/static/css/main.abfaa5f2.css",
+    "main.css": "/MERNSTACK/static/css/main.c3870a17.css",
     "main.js": "/MERNSTACK/static/js/main.6c72a412.js",
     "static/media/Css.pdf": "/MERNSTACK/static/media/Css.c31a866594bb2bde3d03.pdf",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
@@ -288,11 +288,11 @@
     "static/media/AI.avif": "/MERNSTACK/static/media/AI.cfda703ac31d0555eaa3.avif",
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
-    "main.abfaa5f2.css.map": "/MERNSTACK/static/css/main.abfaa5f2.css.map",
+    "main.c3870a17.css.map": "/MERNSTACK/static/css/main.c3870a17.css.map",
     "main.6c72a412.js.map": "/MERNSTACK/static/js/main.6c72a412.js.map"
   },
   "entrypoints": [
-    "static/css/main.abfaa5f2.css",
+    "static/css/main.c3870a17.css",
     "static/js/main.6c72a412.js"
   ]
 }
