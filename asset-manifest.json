@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MERNSTACK/static/css/main.697d7ec6.css",
-    "main.js": "/MERNSTACK/static/js/main.8ede255b.js",
+    "main.js": "/MERNSTACK/static/js/main.6f3f09e3.js",
     "static/media/Css.pdf": "/MERNSTACK/static/media/Css.c31a866594bb2bde3d03.pdf",
     "static/media/course.jpg": "/MERNSTACK/static/media/course.05a8fb865fe58f5c9229.jpg",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
@@ -168,6 +168,7 @@
     "static/media/test1.jpeg": "/MERNSTACK/static/media/test1.d51d05046bdbc75b831e.jpeg",
     "static/media/uiux.jpg": "/MERNSTACK/static/media/uiux.818d18d5e00beb3231ef.jpg",
     "static/media/sort.jpeg": "/MERNSTACK/static/media/sort.6476fec720c81006e35b.jpeg",
+    "static/media/overflow.jpeg": "/MERNSTACK/static/media/overflow.761abaa3939ecfe36d0c.jpeg",
     "static/media/project.png": "/MERNSTACK/static/media/project.a698619b8b3d177c93a2.png",
     "static/media/fixxed.jpeg": "/MERNSTACK/static/media/fixxed.40618d325ad2429ecb98.jpeg",
     "static/media/rms polytechnic.png": "/MERNSTACK/static/media/rms polytechnic.860e1d5d2eea9a84e015.png",
@@ -180,6 +181,7 @@
     "static/media/rib_sheet.jpg": "/MERNSTACK/static/media/rib_sheet.2d6a50a94e94d67dbf44.jpg",
     "static/media/reactjs.png": "/MERNSTACK/static/media/reactjs.f5a9a5765f412a65274d.png",
     "static/media/kjit.png": "/MERNSTACK/static/media/kjit.4042895bfba730725497.png",
+    "static/media/relative.jpeg": "/MERNSTACK/static/media/relative.af2642f94d15fad373f5.jpeg",
     "static/media/javascript.jpeg": "/MERNSTACK/static/media/javascript.be7a340af98cada7bc25.jpeg",
     "static/media/machine-learning.png": "/MERNSTACK/static/media/machine-learning.0c31e17abc105af1a046.png",
     "static/media/mongodb.png": "/MERNSTACK/static/media/mongodb.bfd73249a76369b058f9.png",
@@ -294,10 +296,10 @@
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
     "main.697d7ec6.css.map": "/MERNSTACK/static/css/main.697d7ec6.css.map",
-    "main.8ede255b.js.map": "/MERNSTACK/static/js/main.8ede255b.js.map"
+    "main.6f3f09e3.js.map": "/MERNSTACK/static/js/main.6f3f09e3.js.map"
   },
   "entrypoints": [
     "static/css/main.697d7ec6.css",
-    "static/js/main.8ede255b.js"
+    "static/js/main.6f3f09e3.js"
   ]
 }
