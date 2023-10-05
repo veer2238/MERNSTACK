@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MERNSTACK/static/css/main.697d7ec6.css",
-    "main.js": "/MERNSTACK/static/js/main.6f3f09e3.js",
+    "main.js": "/MERNSTACK/static/js/main.155814dc.js",
     "static/media/Css.pdf": "/MERNSTACK/static/media/Css.c31a866594bb2bde3d03.pdf",
     "static/media/course.jpg": "/MERNSTACK/static/media/course.05a8fb865fe58f5c9229.jpg",
     "static/media/C_Languge.pdf": "/MERNSTACK/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
@@ -162,6 +162,7 @@
     "static/media/react.png": "/MERNSTACK/static/media/react.e81073cabab9260dbc67.png",
     "static/media/automation.png": "/MERNSTACK/static/media/automation.ff27ba68d7b0adc2fe3c.png",
     "static/media/test-final.jpeg": "/MERNSTACK/static/media/test-final.8febd4ca108326bc3924.jpeg",
+    "static/media/sudo.jpeg": "/MERNSTACK/static/media/sudo.14f95fb360ac3ac14c33.jpeg",
     "static/media/machine.jpg": "/MERNSTACK/static/media/machine.ea66fba4833c42c59ba9.jpg",
     "static/media/test2.jpg": "/MERNSTACK/static/media/test2.48ae8ac19b573214151f.jpg",
     "static/media/laravel.png": "/MERNSTACK/static/media/laravel.938849f498818d52ea2f.png",
@@ -296,10 +297,10 @@
     "static/media/revicons.woff": "/MERNSTACK/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MERNSTACK/index.html",
     "main.697d7ec6.css.map": "/MERNSTACK/static/css/main.697d7ec6.css.map",
-    "main.6f3f09e3.js.map": "/MERNSTACK/static/js/main.6f3f09e3.js.map"
+    "main.155814dc.js.map": "/MERNSTACK/static/js/main.155814dc.js.map"
   },
   "entrypoints": [
     "static/css/main.697d7ec6.css",
-    "static/js/main.6f3f09e3.js"
+    "static/js/main.155814dc.js"
   ]
 }
