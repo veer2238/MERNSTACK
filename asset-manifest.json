@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5500f7c4.css",
-    "main.js": "/static/js/main.c623d58d.js",
+    "main.js": "/static/js/main.db13f659.js",
     "static/media/flexibletiming.png": "/static/media/flexibletiming.1c1fddf5e3d8118eba68.png",
     "static/media/trainers.jpg": "/static/media/trainers.3e08dc95f332251451fe.jpg",
     "static/media/placementsupport.png": "/static/media/placementsupport.c73f7a03af04e055d3fa.png",
@@ -280,10 +280,10 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.5500f7c4.css.map": "/static/css/main.5500f7c4.css.map",
-    "main.c623d58d.js.map": "/static/js/main.c623d58d.js.map"
+    "main.db13f659.js.map": "/static/js/main.db13f659.js.map"
   },
   "entrypoints": [
     "static/css/main.5500f7c4.css",
-    "static/js/main.c623d58d.js"
+    "static/js/main.db13f659.js"
   ]
 }
