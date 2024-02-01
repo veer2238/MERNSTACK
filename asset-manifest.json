@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.00bb0db4.css",
-    "main.js": "/static/js/main.eaf1103a.js",
+    "main.css": "/static/css/main.d278f7bd.css",
+    "main.js": "/static/js/main.c3e7078c.js",
     "static/media/Css.pdf": "/static/media/Css.c31a866594bb2bde3d03.pdf",
     "static/media/C_Languge.pdf": "/static/media/C_Languge.3c0f7cbbd20dcfa4ce28.pdf",
     "static/media/cprog.pdf": "/static/media/cprog.deca18a18473ee428ebd.pdf",
@@ -262,11 +262,11 @@
     "static/media/AI.avif": "/static/media/AI.2034f1911d4bc19a9ddb.avif",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.00bb0db4.css.map": "/static/css/main.00bb0db4.css.map",
-    "main.eaf1103a.js.map": "/static/js/main.eaf1103a.js.map"
+    "main.d278f7bd.css.map": "/static/css/main.d278f7bd.css.map",
+    "main.c3e7078c.js.map": "/static/js/main.c3e7078c.js.map"
   },
   "entrypoints": [
-    "static/css/main.00bb0db4.css",
-    "static/js/main.eaf1103a.js"
+    "static/css/main.d278f7bd.css",
+    "static/js/main.c3e7078c.js"
   ]
 }
